@@ -2,7 +2,7 @@
 
 ![PiTFT display](/media/front.png "Osoyoo 3.5 inch TFTLCD 480x320 16bit/18bit")
 
-![PiTFT display](/media/back/png "Osoyoo 3.5 inch TFTLCD 480x320 16bit/18bit")
+![PiTFT display](/media/back.png "Osoyoo 3.5 inch TFTLCD 480x320 16bit/18bit")
 
 This project has come to fruition by the need to utilize a touchscreen that I already own so I can use it on my Raspberry Pi 4b as a KlipperScreen for my 3d printer.
 
